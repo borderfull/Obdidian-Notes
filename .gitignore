@@ -1,0 +1,6 @@
+# Ignore Obsidian system files
+.obsidian/
+
+# Ignore any private notes or directories
+private/
+personal/
